@@ -1,0 +1,26 @@
+{"/pages/about/": {
+    "title": "About",
+    "keywords": "Jekyll",
+    "url": "/pages/about/",
+    "body": "Course Description In this short course, students will learn about one of the most impactful innovations by humankind— Internet—which has transformed how we do business, connect with others, and learn. Students will learn how the Internet is structured, and how data is transmitted across the network. They will also learn about Internet security, privacy, and ethical issues related to Internet use."
+  },"/pages/contact/": {
+    "title": "🧑‍🏫 Staff",
+    "keywords": "Jekyll",
+    "url": "/pages/contact/",
+    "body": "Instructor Dr. Zafar Ayyub Qazi Assistant Professor Department of Computer Science LUMS [ Email | Website ] Teaching Assistants Saad Sher Alam Undergrad Rising Senior Department of Computer Science LUMS [ Email ] Harris Ahmad Undergrad Rising Senior Department of Computer Science LUMS [ Email | Website ] Mohammad Jazlan Undergrad Rising Senior Department of Computer Science LUMS [ Email ] Hafsa Akbar Undergrad Rising Junior Department of Computer Science LUMS [ Email ] Danish Athar Undergrad Rising Junior Department of Computer Science LUMS [ Email ]"
+  },"/pages/design/draft/": {
+    "title": "📅 Daily Schedule",
+    "keywords": "Jekyll",
+    "url": "/pages/design/draft/",
+    "body": "Session 1 Timings: 10:00 AM - 11:15 AM Duration: 75 minutes Introductions End-End Journey of a Packet History of the Internet Encoding Information Routing Class Activity 15-minute break Session 2 Timings: 11:30 AM - 12:45 PM Duration: 75 minutes Reliable Data Transfer Congestion Control DNS Class Activity 1-hour break Session 3 Timings: 1:45 PM - 3:15 PM Duration: 90 minutes Network security challenges Encryption and Decryption Online privacy and data protection Challenges for Internet and Opportunities for Impact TA Short Interviews"
+  },"/jekyll/2023-08-01-why.html": {
+    "title": "📚 Resources",
+    "keywords": "Jekyll",
+    "url": "/jekyll/2023-08-01-why.html",
+    "body": "Reading Material for curious minds!"
+  },"/jekyll/2019-04-28-howto.html": {
+    "title": "📢 Annoucements",
+    "keywords": "Jekyll",
+    "url": "/jekyll/2019-04-28-howto.html",
+    "body": "Keep an eye out for important announcments!"
+  }}
