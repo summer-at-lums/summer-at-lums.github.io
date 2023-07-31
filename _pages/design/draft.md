@@ -4,6 +4,7 @@ author: Zafar Qazi
 date: 2022-02-06
 category: Jekyll
 layout: post
+permalink: /daily-schedule
 ---
 
 ## Session 1
