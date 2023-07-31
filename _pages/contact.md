@@ -14,7 +14,7 @@ layout: post
 
 ## Teaching Assistants
 
-| ![Saad's Picture](../assets/saad.jpg "saad s alam") | **Saad Sher Alam** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100161@lums.edu.pk) ] | 
+| <img src="../assets/saad.jpg" width="200" height="200" /> | **Saad Sher Alam** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100161@lums.edu.pk) ] | 
 
 | <img src="../assets/harris.jpg" width="200" height="200" /> | **Harris Ahmad** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100315@lums.edu.pk) \| [Website](https://harris-ahmad.github.io) ] | 
 
