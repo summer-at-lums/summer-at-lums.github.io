@@ -14,12 +14,12 @@ layout: post
 
 ## Teaching Assistants
 
-| <img src="../assets/saad.jpg" width="200" height="200" /> | **Saad Sher Alam** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100161@lums.edu.pk) ] | 
+|**Saad Sher Alam** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100161@lums.edu.pk) ] | 
 
-| <img src="../assets/harris.jpg" width="200" height="200" /> | **Harris Ahmad** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100315@lums.edu.pk) \| [Website](https://harris-ahmad.github.io) ] | 
+|**Harris Ahmad** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100315@lums.edu.pk) \| [Website](https://harris-ahmad.github.io) ] | 
 
-| <img src="" width="200" height="200" /> | **Mohammad Jazlan** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100022@lums.edu.pk)  ] | 
+|**Mohammad Jazlan** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100022@lums.edu.pk)  ] | 
 
-| <img src="../assets/hafsa.jpg" width="200" height="200" /> | **Hafsa Akbar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100083@lums.edu.pk)  ] | 
+|**Hafsa Akbar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100083@lums.edu.pk)  ] | 
 
-| <img src="https://github.com/summer-at-lums/summer-at-lums.github.io/blob/main/assets/danish.jpg" width="200" height="200" /> | **Danish Athar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100174@lums.edu.pk)  ] | 
+|**Danish Athar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100174@lums.edu.pk)  ] | 

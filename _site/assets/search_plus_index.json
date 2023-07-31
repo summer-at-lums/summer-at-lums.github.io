@@ -1,26 +1,26 @@
-{"/about": {
+{"/pages/about/": {
     "title": "About",
     "keywords": "Jekyll",
-    "url": "/about",
+    "url": "/pages/about/",
     "body": "Course Description In this short course, students will learn about one of the most impactful innovations by humankind— Internet—which has transformed how we do business, connect with others, and learn. Students will learn how the Internet is structured, and how data is transmitted across the network. They will also learn about Internet security, privacy, and ethical issues related to Internet use."
-  },"/contact": {
+  },"/pages/announcements/": {
+    "title": "📢 Annoucements",
+    "keywords": "Jekyll",
+    "url": "/pages/announcements/",
+    "body": "Keep an eye out for important announcments!"
+  },"/pages/contact/": {
     "title": "🧑‍🏫 Staff",
     "keywords": "Jekyll",
-    "url": "/contact",
+    "url": "/pages/contact/",
     "body": "Instructor Dr. Zafar Ayyub Qazi Assistant Professor Department of Computer Science LUMS [ Email | Website ] Teaching Assistants Saad Sher Alam Undergrad Rising Senior Department of Computer Science LUMS [ Email ] Harris Ahmad Undergrad Rising Senior Department of Computer Science LUMS [ Email | Website ] Mohammad Jazlan Undergrad Rising Senior Department of Computer Science LUMS [ Email ] Hafsa Akbar Undergrad Rising Junior Department of Computer Science LUMS [ Email ] Danish Athar Undergrad Rising Junior Department of Computer Science LUMS [ Email ]"
+  },"/pages/resources/": {
+    "title": "📚 Resources",
+    "keywords": "Jekyll",
+    "url": "/pages/resources/",
+    "body": "If you want to learn how to talk to a computer and solve problems using the art of programming, here’s an introductory course for just that. Click here to access it. If you don’t want to be bogged down by lines of complicated-looking code, you can start programming using Scratch! It’s a super cool platform that allows you to make interactive animations and tell a story with colorful blocks. Click here to read more about it. Computer scientists can be detectives too! Here’s a video explaining one of the fundamentals of network security and encryption. Click here to view. If you want to uncover the math-y magic behind how public and private keys work, here’s the video for you."
   },"/daily-schedule": {
     "title": "📅 Daily Schedule",
     "keywords": "Jekyll",
     "url": "/daily-schedule",
     "body": "Session 1 Timings: 10:00 AM - 11:15 AM Duration: 75 minutes Introductions End-End Journey of a Packet History of the Internet Encoding Information Routing Class Activity 15-minute break Session 2 Timings: 11:30 AM - 12:45 PM Duration: 75 minutes Reliable Data Transfer Congestion Control DNS Class Activity 1-hour break Session 3 Timings: 1:45 PM - 3:15 PM Duration: 90 minutes Network security challenges Encryption and Decryption Online privacy and data protection Challenges for Internet and Opportunities for Impact TA Short Interviews"
-  },"/announcements": {
-    "title": "📢 Annoucements",
-    "keywords": "Jekyll",
-    "url": "/announcements",
-    "body": "Keep an eye out for important announcments!"
-  },"/resources": {
-    "title": "📚 Resources",
-    "keywords": "Jekyll",
-    "url": "/resources",
-    "body": "Reading Material for curious minds!"
   }}
