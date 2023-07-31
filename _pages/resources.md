@@ -14,14 +14,4 @@ layout: post
 
 * If you want to uncover the math-y magic behind how public and private keys work, [here](https://www.youtube.com/watch?v=YEBfamv-_do)'s the video for you.
 
----
-
-**Readings From A Textbook**
-
-* [DNS Naming](DNS-Routing.pdf)
-* [Fundamentals of Routing](Routing.pdf)
-* [Reliability](reliable-transfer.pdf)
-* [Congestion Control](congestion-control.pdf)
-* [Encryption](https://www.cloudflare.com/learning/ssl/what-is-encryption/)
-* [Privacy](https://www.cloudflare.com/learning/privacy/what-is-data-privacy/)
-* Here's an interesting read on the relationship between encryption and privacy. Click [here](https://www.cloudflare.com/learning/privacy/encryption-and-privacy/) to read.
+* If you're interested in diving deeper into the different topics that you've studied during these sessions, click [here](https://docs.google.com/document/d/1xIzQPV3hFRNZVh_x-OkNeUbrf07upMP2gt0C8-MtIjU/edit?usp=sharing) to view the compiled document.
