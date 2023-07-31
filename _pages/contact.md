@@ -22,4 +22,4 @@ layout: post
 
 | <img src="../assets/hafsa.jpg" width="200" height="200" /> | **Hafsa Akbar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100083@lums.edu.pk)  ] | 
 
-| <img src="../assets/danish.jpg" width="200" height="200" /> | **Danish Athar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100174@lums.edu.pk)  ] | 
+| <img src="https://github.com/summer-at-lums/summer-at-lums.github.io/blob/main/assets/danish.jpg" width="200" height="200" /> | **Danish Athar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100174@lums.edu.pk)  ] | 
