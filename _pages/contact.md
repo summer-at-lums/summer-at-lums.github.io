@@ -20,6 +20,6 @@ layout: post
 
 | <img src="" width="200" height="200" /> | **Mohammad Jazlan** <br> Undergrad Rising Senior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:24100022@lums.edu.pk)  ] | 
 
-| <img src="../assets/hafsa.jpeg" width="200" height="200" /> | **Hafsa Akbar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100083@lums.edu.pk)  ] | 
+| <img src="https://drive.google.com/file/d/1P3C_TcrdnjGh_D2PAPeh8BGRNT7wc2lq/view?usp=sharing" width="200" height="200" /> | **Hafsa Akbar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100083@lums.edu.pk)  ] | 
 
 | <img src="../assets/danish.jpeg" width="200" height="200" /> | **Danish Athar** <br> Undergrad Rising Junior <br> Department of Computer Science <br> LUMS <br> [ [Email](mailto:25100174@lums.edu.pk)  ] | 
