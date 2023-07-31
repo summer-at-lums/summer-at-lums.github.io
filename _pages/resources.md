@@ -4,7 +4,6 @@ author: Zafar Qazi
 date: 2023-08-01
 category: Jekyll
 layout: post
-permalink: /resources
 ---
 
 Reading Material for curious minds!
