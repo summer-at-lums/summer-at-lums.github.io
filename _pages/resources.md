@@ -1,7 +1,7 @@
 ---
 title: 📚 Resources
-author: Zafar Qazi
-date: 2023-08-01
+author: Tao He
+date: 2022-02-04
 category: Jekyll
 layout: post
 ---
